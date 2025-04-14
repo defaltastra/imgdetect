@@ -11,7 +11,7 @@ A simple script to perform object detection on images using YOLOv5 in **CPU-only
 1. **Clone the repository**
    ```bash
    git clone https://github.com/defaltastra/imgdetect.git
-   cd yolov5-cpu-detect
+   cd imgdetect
    ```
 
 2. **Install dependencies**
