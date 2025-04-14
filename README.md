@@ -25,7 +25,7 @@ A simple script to perform object detection on images using YOLOv5 in **CPU-only
 ## 🚀 Usage
 
 ```bash
-python detect.py --image path/to/your/image.jpg
+python main.py --image path/to/your/image.jpg
 ```
 
 ### Optional Arguments:
@@ -37,7 +37,7 @@ python detect.py --image path/to/your/image.jpg
 ### Example:
 
 ```bash
-python detect.py --image input.jpg --model --conf 0.3 --output result.jpg
+python main.py --image input.jpg --model --conf 0.3 --output result.jpg
 ```
 
 ---
