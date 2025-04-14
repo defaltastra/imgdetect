@@ -66,4 +66,3 @@ This project is under the [MIT License](LICENSE).
 - [Ultralytics YOLOv5](https://github.com/ultralytics/yolov5)
 - PyTorch, OpenCV, NumPy
 
-```
